@@ -58,6 +58,7 @@ print("Decrypted Message:", decrypted)
 
 ## OUTPUT
 
+<img width="519" height="207" alt="image" src="https://github.com/user-attachments/assets/423f7bc4-01e8-4780-a2e1-d5371919f067" />
 
 
 
